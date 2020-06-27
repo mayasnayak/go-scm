@@ -3,4 +3,4 @@ jx step create pr go --name github.com/jenkins-x/go-scm --version ${VERSION} --b
 jx step create pr go --name github.com/jenkins-x/go-scm --version ${VERSION} --build "make mod" --repo https://github.com/cloudbees/jx-tenant-service.git
 jx step create pr go --name github.com/jenkins-x/go-scm --version ${VERSION} --build "make mod" --repo https://github.com/cloudbees/lighthouse-githubapp.git
 
-# this is a comment
+# this is a comment 1
